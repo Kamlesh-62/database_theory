@@ -536,3 +536,4 @@ Database indexes are like the table of contents, index, and bookmarks of a book 
 Start with indexes on primary keys and foreign keys, then add indexes based on your actual query performance needs. Use EXPLAIN plans to verify that your indexes are being used effectively, and remove indexes that aren't providing value.
 
 Remember: The goal isn't to index everything, but to index smartly based on your application's specific needs.
+source: https://youtu.be/3G293is403I?si=Jhy-FmtyCUxvku8s
